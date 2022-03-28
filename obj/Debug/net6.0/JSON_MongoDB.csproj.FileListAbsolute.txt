@@ -1,0 +1,17 @@
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\bin\Debug\net6.0\JSON_MongoDB.exe
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\bin\Debug\net6.0\JSON_MongoDB.deps.json
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\bin\Debug\net6.0\JSON_MongoDB.runtimeconfig.json
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\bin\Debug\net6.0\JSON_MongoDB.dll
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\bin\Debug\net6.0\JSON_MongoDB.pdb
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.csproj.AssemblyReference.cache
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.AssemblyInfoInputs.cache
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.AssemblyInfo.cs
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.csproj.CopyComplete
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.dll
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\refint\JSON_MongoDB.dll
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.pdb
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\JSON_MongoDB.genruntimeconfig.cache
+C:\Users\catal\Zealand\Personal Learning\CodeChallenge_MDB\obj\Debug\net6.0\ref\JSON_MongoDB.dll

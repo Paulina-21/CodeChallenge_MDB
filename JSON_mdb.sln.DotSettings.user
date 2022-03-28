@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=165d5032_002D5409_002D4a71_002D87d4_002Daac890af846e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPropertiesFromJsonTest_FileNotFound" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::69F17D68-395B-4861-BA02-DF686B6A7261::net6.0::JSON_MongoDB.Tests.JSON_transformerTests.GetPropertiesFromJsonTest_FileNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::69F17D68-395B-4861-BA02-DF686B6A7261::net6.0::JSON_MongoDB.Tests.JSON_transformerTests.GetPropertiesFromJsonTest_FileEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::69F17D68-395B-4861-BA02-DF686B6A7261::net6.0::JSON_MongoDB.Tests.JSON_transformerTests.GetPropertiesFromJsonTest_NotJsonFormat&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
